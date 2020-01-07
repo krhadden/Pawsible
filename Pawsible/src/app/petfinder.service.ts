@@ -7,7 +7,7 @@ import {
 import PetfinderAuth from '../../../Pawsible/PetfinderAuth.json';
 
 @Injectable({
-  providedIn: 'root'
+  providedIn: 'root',
 })
 export class PetfinderService {
 
